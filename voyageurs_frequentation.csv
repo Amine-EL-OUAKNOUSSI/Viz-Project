@@ -13,9 +13,9 @@ uic,gare_enquetee,frequence,pourcentage,annee
 673004,Bayonne,Tous les jours de la semaine ou presque,24,2013
 686006,Paris Gare de Lyon,Moins d 1 fois par mois,34,2012
 686006,Paris Gare de Lyon,Tous les jours de la semaine ou presque,28,2012
-718007,Besançon-Viotte,Moins d 1 fois par mois,22,2012
+718007,Besancon-Viotte,Moins d 1 fois par mois,22,2012
 757625,Cannes,Tous les jours de la semaine ou presque,38,2015
-763029,Valence TGV Rhône-Alpes Sud,Tous les jours de la semaine ou presque,11,2015
+763029,Valence TGV Rhone-Alpes Sud,Tous les jours de la semaine ou presque,11,2015
 686667,Paris Bercy,Moins d 1 fois par mois,31,2012
 223263,Lille Europe,1 ou plusieurs fois par mois,17,2013
 345025,Lens,C est la premiere fois,5,2016
@@ -70,14 +70,14 @@ uic,gare_enquetee,frequence,pourcentage,annee
 747006,Grenoble,Tous les jours de la semaine ou presque,42,2015
 751008,Marseille Saint-Charles,1 a 2 fois par semaine,12,2013
 755009,Toulon,1 a 2 fois par semaine,23,2014
-111849,Marne la Vallée Chessy,C est la premiere fois,22,2013
+111849,Marne la Vallee Chessy,C est la premiere fois,22,2013
 182014,Colmar,Moins d 1 fois par mois,11,2017
 182063,Mulhouse,1 a 2 fois par semaine,17,2014
 393702,Massy TGV,C est la premiere fois,23,2013
 575001,Poitiers,C est la premiere fois,12,2015
-718007,Besançon-Viotte,C est la premiere fois,4,2012
+718007,Besancon-Viotte,C est la premiere fois,4,2012
 755009,Toulon,Moins d 1 fois par mois,29,2014
-763029,Valence TGV Rhône-Alpes Sud,C est la premiere fois,11,2015
+763029,Valence TGV Rhone-Alpes Sud,C est la premiere fois,11,2015
 142109,Lorraine TGV,1 ou plusieurs fois par mois,14,2017
 182063,Mulhouse,C est la premiere fois,6,2014
 319012,Aix en Provence-TGV,1 ou plusieurs fois par mois,25,2015
@@ -90,7 +90,7 @@ uic,gare_enquetee,frequence,pourcentage,annee
 723197,Lyon Part Dieu,Moins d 1 fois par mois,28,2011
 757625,Cannes,C est la premiere fois,16,2015
 762906,Lyon Saint Exupery TGV,Tous les jours de la semaine ou presque,1,2016
-763029,Valence TGV Rhône-Alpes Sud,Moins d 1 fois par mois,39,2015
+763029,Valence TGV Rhone-Alpes Sud,Moins d 1 fois par mois,39,2015
 775007,Nîmes,C est la premiere fois,6,2014
 118000,Troyes,Tous les jours de la semaine ou presque,35,2015
 318964,Avignon TGV,C est la premiere fois,11,2015
@@ -103,7 +103,7 @@ uic,gare_enquetee,frequence,pourcentage,annee
 581009,Bordeaux Saint-Jean,Moins d 1 fois par mois,35,2014
 722025,Lyon Perrache,Tous les jours de la semaine ou presque,60,2011
 756056,Nice,Moins d 1 fois par mois,25,2014
-763029,Valence TGV Rhône-Alpes Sud,1 ou plusieurs fois par mois,25,2015
+763029,Valence TGV Rhone-Alpes Sud,1 ou plusieurs fois par mois,25,2015
 784009,Perpignan,1 ou plusieurs fois par mois,22,2016
 784009,Perpignan,Moins d 1 fois par mois,30,2016
 113001,Paris Est,C est la premiere fois,10,2012
@@ -113,9 +113,9 @@ uic,gare_enquetee,frequence,pourcentage,annee
 713040,Dijon,1 ou plusieurs fois par mois,21,2015
 118000,Troyes,1 ou plusieurs fois par mois,15,2015
 192039,Metz,Tous les jours de la semaine ou presque,52,2016
-271494,Aéroport Charles de Gaulle 2 TGV,1 ou plusieurs fois par mois,12,2013
+271494,Aeroport Charles de Gaulle 2 TGV,1 ou plusieurs fois par mois,12,2013
 271494,Aeroport Charles de Gaulle 2 TGV,Moins d 1 fois par mois,58,2013
-300863,Besançon Franche-Comté TGV,Tous les jours de la semaine ou presque,6,2015
+300863,Besancon Franche-Comte TGV,Tous les jours de la semaine ou presque,6,2015
 313874,Amiens,C est la premiere fois,4,2015
 396002,Le Mans,1 a 2 fois par semaine,19,2015
 481002,Nantes,1 a 2 fois par semaine,14,2014
@@ -127,7 +127,7 @@ uic,gare_enquetee,frequence,pourcentage,annee
 113001,Paris Est,1 ou plusieurs fois par mois,8,2012
 182063,Mulhouse,Tous les jours de la semaine ou presque,47,2014
 286005,Lille Flandres,C est la premiere fois,5,2013
-300822,Belfort Montbéliard TGV,Tous les jours de la semaine ou presque,1,2015
+300822,Belfort Montbeliard TGV,Tous les jours de la semaine ou presque,1,2015
 411017,Rouen Rive Droite,Moins d 1 fois par mois,17,2014
 478404,Laval,C est la premiere fois,24,2011
 547000,Paris Austerlitz,1 a 2 fois par semaine,14,2013
@@ -140,14 +140,14 @@ uic,gare_enquetee,frequence,pourcentage,annee
 784009,Perpignan,1 a 2 fois par semaine,15,2016
 223263,Lille Europe,Tous les jours de la semaine ou presque,21,2013
 286005,Lille Flandres,1 ou plusieurs fois par mois,10,2013
-300863,Besançon Franche-Comté TGV,1 a 2 fois par semaine,19,2015
+300863,Besancon Franche-Comte TGV,1 a 2 fois par semaine,19,2015
 444000,Caen,Tous les jours de la semaine ou presque,39,2012
 753657,Arles,Tous les jours de la semaine ou presque,34,2014
 755009,Toulon,Tous les jours de la semaine ou presque,23,2014
 118000,Troyes,1 a 2 fois par semaine,20,2015
 141002,Nancy,Moins d 1 fois par mois,18,2014
 182014,Colmar,C est la premiere fois,4,2017
-271494,Aéroport Charles de Gaulle 2 TGV,C est la premiere fois,21,2013
+271494,Aeroport Charles de Gaulle 2 TGV,C est la premiere fois,21,2013
 300822,Belfort Montbeliard TGV,Moins d 1 fois par mois,40,2015
 318964,Avignon TGV,Tous les jours de la semaine ou presque,3,2015
 411017,Rouen Rive Droite,1 ou plusieurs fois par mois,15,2014
@@ -157,9 +157,9 @@ uic,gare_enquetee,frequence,pourcentage,annee
 747006,Grenoble,Moins d 1 fois par mois,19,2015
 753657,Arles,1 ou plusieurs fois par mois,13,2014
 753657,Arles,C est la premiere fois,14,2014
-111849,Marne la Vallée Chessy,1 ou plusieurs fois par mois,11,2013
+111849,Marne la Vallee Chessy,1 ou plusieurs fois par mois,11,2013
 113001,Paris Est,Moins d 1 fois par mois,17,2012
-300863,Besançon Franche-Comte TGV,Moins d 1 fois par mois,39,2015
+300863,Besancon Franche-Comte TGV,Moins d 1 fois par mois,39,2015
 345025,Lens,Moins d 1 fois par mois,9,2016
 345025,Lens,Tous les jours de la semaine ou presque,58,2016
 444000,Caen,1 a 2 fois par semaine,20,2012
@@ -168,13 +168,13 @@ uic,gare_enquetee,frequence,pourcentage,annee
 751008,Marseille Saint-Charles,Moins d 1 fois par mois,25,2013
 773002,Montpellier Saint-Roch,1 a 2 fois par semaine,15,2015
 773002,Montpellier Saint-Roch,Moins d 1 fois par mois,26,2015
-111849,Marne la Vallée Chessy,1 a 2 fois par semaine,8,2013
+111849,Marne la Vallee Chessy,1 a 2 fois par semaine,8,2013
 113001,Paris Est,Tous les jours de la semaine ou presque,55,2012
 118000,Troyes,C est la premiere fois,11,2015
 182014,Colmar,1 a 2 fois par semaine,16,2017
 192039,Metz,Moins d 1 fois par mois,18,2016
-300822,Belfort Montbéliard TGV,1 ou plusieurs fois par mois,27,2015
-300822,Belfort Montbéliard TGV,C est la premiere fois,19,2015
+300822,Belfort Montbeliard TGV,1 ou plusieurs fois par mois,27,2015
+300822,Belfort Montbeliard TGV,C est la premiere fois,19,2015
 313874,Amiens,Tous les jours de la semaine ou presque,64,2015
 319012,Aix en Provence-TGV,Moins d 1 fois par mois,50,2015
 345025,Lens,1 ou plusieurs fois par mois,13,2016
@@ -186,7 +186,7 @@ uic,gare_enquetee,frequence,pourcentage,annee
 673004,Bayonne,1 ou plusieurs fois par mois,17,2013
 677005,Hendaye,Tous les jours de la semaine ou presque,13,2016
 713040,Dijon,Tous les jours de la semaine ou presque,34,2015
-718007,Besançon-Viotte,1 ou plusieurs fois par mois,12,2012
+718007,Besancon-Viotte,1 ou plusieurs fois par mois,12,2012
 755009,Toulon,1 ou plusieurs fois par mois,18,2014
 775007,Nîmes,1 a 2 fois par semaine,14,2014
 784009,Perpignan,C est la premiere fois,11,2016
@@ -209,7 +209,7 @@ uic,gare_enquetee,frequence,pourcentage,annee
 111849,Marne la Vallee Chessy,Moins d 1 fois par mois,54,2013
 142109,Lorraine TGV,C est la premiere fois,14,2017
 286005,Lille Flandres,Tous les jours de la semaine ou presque,55,2013
-300863,Besançon Franche-Comté TGV,1 ou plusieurs fois par mois,25,2015
+300863,Besancon Franche-Comte TGV,1 ou plusieurs fois par mois,25,2015
 391003,Paris Montparnasse 1 et 2 + Vaugirard,Moins d 1 fois par mois,29,2012
 471003,Rennes,Moins d 1 fois par mois,25,2014
 484006,Angers Saint Laud,1 a 2 fois par semaine,16,2015
@@ -226,7 +226,7 @@ uic,gare_enquetee,frequence,pourcentage,annee
 286005,Lille Flandres,Moins d 1 fois par mois,15,2013
 755009,Toulon,C est la premiere fois,7,2014
 756056,Nice,Tous les jours de la semaine ou presque,46,2014
-111849,Marne la Vallée Chessy,Tous les jours de la semaine ou presque,4,2013
+111849,Marne la Vallee Chessy,Tous les jours de la semaine ou presque,4,2013
 192039,Metz,1 ou plusieurs fois par mois,11,2016
 384008,Paris St Lazare,Tous les jours de la semaine ou presque,72,2013
 481002,Nantes,C est la premiere fois,12,2014
@@ -248,12 +248,12 @@ uic,gare_enquetee,frequence,pourcentage,annee
 673400,Biarritz,Tous les jours de la semaine ou presque,17,2016
 747006,Grenoble,C est la premiere fois,5,2015
 751008,Marseille Saint-Charles,Tous les jours de la semaine ou presque,35,2013
-763029,Valence TGV Rhône-Alpes Sud,1 a 2 fois par semaine,14,2015
+763029,Valence TGV Rhone-Alpes Sud,1 a 2 fois par semaine,14,2015
 113001,Paris Est,1 a 2 fois par semaine,8,2012
 212027,Strasbourg,1 a 2 fois par semaine,11,2016
-271494,Aéroport Charles de Gaulle 2 TGV,Tous les jours de la semaine ou presque,1,2013
-300822,Belfort Montbéliard TGV,1 a 2 fois par semaine,13,2015
-300863,Besançon Franche-Comté TGV,C est la premiere fois,11,2015
+271494,Aeroport Charles de Gaulle 2 TGV,Tous les jours de la semaine ou presque,1,2013
+300822,Belfort Montbeliard TGV,1 a 2 fois par semaine,13,2015
+300863,Besancon Franche-Comte TGV,C est la premiere fois,11,2015
 411017,Rouen Rive Droite,1 a 2 fois par semaine,14,2014
 471003,Rennes,1 a 2 fois par semaine,16,2014
 478404,Laval,Tous les jours de la semaine ou presque,30,2011
@@ -282,6 +282,6 @@ uic,gare_enquetee,frequence,pourcentage,annee
 391003,Paris Montparnasse 1 et 2 + Vaugirard,1 ou plusieurs fois par mois,20,2012
 547000,Paris Austerlitz,Tous les jours de la semaine ou presque,21,2013
 583005,Angoulême,1 ou plusieurs fois par mois,25,2012
-718007,Besançon-Viotte,1 a 2 fois par semaine,18,2012
-718007,Besançon-Viotte,Tous les jours de la semaine ou presque,44,2012
+718007,Besancon-Viotte,1 a 2 fois par semaine,18,2012
+718007,Besancon-Viotte,Tous les jours de la semaine ou presque,44,2012
 753657,Arles,1 a 2 fois par semaine,11,2014
